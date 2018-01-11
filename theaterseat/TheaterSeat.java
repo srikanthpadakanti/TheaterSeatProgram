@@ -12,7 +12,7 @@ import theaterdata.TheaterRequest;
 import theatersearch.TheaterSeatingSearch;
 /**
  *
- * @author Administrator
+ * @author spadakanti
  */
 public class TheaterSeat {
 
