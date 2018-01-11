@@ -12,7 +12,12 @@ The program will take in a list of orders for theater seats.
 
 ** Sample input&output
 
-Sample input: 6 6 3 5 5 3 4 6 6 4 2 8 8 2 6 6
+Sample input: 
+  6 6 
+  3 5 5 3 
+  4 6 6 4 
+  2 8 8 2 
+  6 6
 
 Smith 2 Jones 5 Davis 6 Wilson 100 Johnson 3 Williams 4 Brown 8 Miller 12
 
