@@ -24,6 +24,9 @@ Sample input:
   
   
   2 8 8 2 
+  
+  
+  
   6 6 
 
 Smith 2 Jones 5 Davis 6 Wilson 100 Johnson 3 Williams 4 Brown 8 Miller 12
