@@ -15,7 +15,7 @@ The program will take in a list of orders for theater seats.
 Sample input: 
 
   6 6  
-  3 5 5 3
+  3 5 5 3 
   4 6 6 4 
   2 8 8 2 
   6 6 
